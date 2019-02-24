@@ -1,2 +1,2 @@
 # recepie-app
-![](https://i.imgur.com/9PzW2pn.png)
+![](https://i.imgur.com/U6Ixcwz.png)
